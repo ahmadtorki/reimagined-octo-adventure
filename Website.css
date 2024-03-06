@@ -1,0 +1,150 @@
+.link-a{
+    color: rgb(0,113,133);
+}
+.link-a:hover{
+    color: chocolate;
+}
+
+
+
+.button-a{
+    background-color: rgb(255,216,20);
+    border: none;
+    height: 30px;
+    width: 130px;
+    border-radius: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    
+
+}
+.button-a:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+.button-b{
+    background-color: rgb(255,164,28);
+    border: none;
+    height: 30px;
+    width: 130px;
+    border-radius: 15px;
+    font-weight: bold;
+    
+    cursor: pointer;
+    
+}
+.button-b:active{
+    opacity: 0.5;
+}
+
+
+.text-a{
+    color: crimson;
+    text-align: center;
+    font-family: arial;
+    font-size: 15px;
+    margin-bottom: 5px;
+
+}
+.text-b{
+    font-weight: bold;
+    font-family: arial;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.text-c{
+    font-size: 50px;
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 15px;
+    
+}
+.text-d{
+    text-align: center;
+    font-family: arial;
+    margin-top: 0;
+}
+.button-c{
+    
+    background-color: rgb(0, 99, 248);
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    
+
+
+
+
+    
+
+
+}
+.text-e{
+    font-size: 50px;
+    font-family: arial;
+    margin-bottom: 010px;
+
+}
+.span-a{
+    font-size: 25px;
+    color: gray;
+    
+}
+.text-f{
+    font-family: Arial;
+    font-size: 27px;
+    margin-top: 0;
+    color: darkgreen;
+}
+.text-g{
+    font-size: 26px;
+    font-family: Arial;
+    color: gray;
+    margin-bottom: 150px;
+}
+.span-b{
+    color: rgb(220, 20, 60);
+}
+
+.text-h{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+
+
+}
+
+.span-c{
+    font-weight: 300;
+    color: gray;
+}
+.text-i{
+    font-family: arial;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.text-j{
+    font-family: arial;
+    font-size: 20px;
+    margin-top: 0;
+}
+.span-d{
+    color: rgb(0,113,133);
+    cursor: pointer;
+}
